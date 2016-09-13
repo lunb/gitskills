@@ -1,1 +1,2 @@
 this is a file about branch strategory.
+fix a bug in a txt
